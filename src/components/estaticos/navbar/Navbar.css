@@ -1,0 +1,17 @@
+.folha{
+   
+    display: flex;
+    background-color: black;
+    border-radius: 10px;
+    border: 1px solid black;
+ 
+}
+.cursor{
+cursor: pointer;
+color: white;
+}
+
+.text-decorator-none{
+text-decoration: none;
+
+}

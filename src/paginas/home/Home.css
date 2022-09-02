@@ -1,0 +1,34 @@
+.caixa {
+    background-color: #3f51b5;
+    
+  }
+  
+  .titulo {
+    color: white !important;
+    font-weight: bold !important;
+  }
+  
+  .botao {
+    border-color: white !important;
+    background-color: #3f51b5 !important;
+    color: white !important;
+  }
+  .botao2 {
+    border-color: white !important;
+    background-color: black !important;
+    color: white !important;
+  }
+  
+  .postagens {
+    background-color: silver;
+  }
+  
+  .imagem3 {
+    background-image: url(https://cdn.discordapp.com/attachments/1015317684780544031/1015318006403969136/3s1dQRCH_400x400.jpg);
+    width: 100vh;
+    height: 100vh;
+    background-size: cover;
+    border-radius: 450px !important;
+    border: 0px solid #212121;
+    box-shadow: 2px 3px 10px #212121;
+  }
