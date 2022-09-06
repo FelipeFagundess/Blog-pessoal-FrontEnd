@@ -49,7 +49,7 @@ function Footer() {
                 <InstagramIcon style={{ fontSize: 35, color: "white" }} />
               </a>
               <a
-                href="https://github.com/vitormartinsxd"
+                href="https://github.com/FelipeFagundess"
                 target="_blank"
                 rel="noopener noreferrer"
               >

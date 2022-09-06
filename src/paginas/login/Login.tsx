@@ -19,19 +19,19 @@ function Login() {
 
                                 <Box className="signin-container">
 
-                                    <Typography className="title" variant="h3"> Welcome</Typography>
+                                    <Typography className="title" variant="h3"> Bem vindo ao Hospício!</Typography>
 
                                     <Box className="input-container">
                                         <TextField
                                             className="input"
-                                            label="Username"
+                                            label="Usuario"
                                             variant="filled"
                                         />
 
                                         <TextField
                                             className="input"
                                             id="filled-password-input"
-                                            label="Password"
+                                            label="Senha"
                                             type="password"
                                             autoComplete="current-password"
                                             variant="filled"
